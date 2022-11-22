@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shinobies>
+    <Villages>
+        <Village name="Konoha">
+            <Clans>
+                <Clan name="Uzumaki">
+                    <Ranks>
+                        <Rank rank="Hokage">
+                            <Ninjas>
+                                <Ninja name="Naruto" nature="wind" CountOfMis="120" SpecialAbility="ShadowClonning"/>
+                            </Ninjas>
+                        </Rank>
+                    </Ranks>
+                </Clan>
+                <Clan name="Uchiha">
+                    <Ranks>
+                        <Rank rank="Jonin">
+                            <Ninjas>
+                                <Ninja name="Saske" nature="Fire and lightning" CountOfMis="120" SpecialAbility="Raikiry"/>
+                                <Ninja name="Itachi" nature="Fire" CountOfMis="230" SpecialAbility="Amaterasu"/>
+                                <Ninja name="Madara" nature="Fire" CountOfMis="75" SpecialAbility="Susano"/>
+                            </Ninjas>
+                        </Rank>
+                    </Ranks>
+                </Clan>
+                <Clan name="Hyuga">
+                    <Ranks>
+                        <Rank rank="Jonin">
+                            <Ninjas>
+                                <Ninja name="Neiji" nature="none" CountOfMis="100" SpecialAbility="Celestial rotation"/>
+                            </Ninjas>
+                        </Rank>
+                        <Rank rank="Chunin">
+                            <Ninjas>
+                                <Ninja name="Hinata" nature="none" CountOfMis="110" SpecialAbility="The blow of the twin lions"/>
+                            </Ninjas>
+                        </Rank>
+                    </Ranks>
+                </Clan>
+            </Clans>
+        </Village>
+        <Village name="Sunagakure">
+            <Clans>
+                <Clan name="Kazekage">
+                    <Ranks>
+                        <Rank rank="Kazekage">
+                            <Ninjas>
+                                <Ninja name="Gaara" nature="Sand" CountOfMis="38" SpecialAbility="The great sandy burial"/>
+                            </Ninjas>
+                        </Rank>
+                        <Rank rank="Jonin">
+                            <Ninjas>
+                                <Ninja name="Kankuro" nature="none" CountOfMis="38" SpecialAbility="Skill puppeteer"/>
+                                <Ninja name="Temari" nature="Wind" CountOfMis="38" SpecialAbility="Wind Blade"/>
+                            </Ninjas>
+                        </Rank>
+                    </Ranks>
+                </Clan>
+            </Clans>
+        </Village>
+    </Villages>
+</Shinobies>

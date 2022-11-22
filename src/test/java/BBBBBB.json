@@ -1,0 +1,157 @@
+{
+  "ninjas": [
+    {
+      "name": "Naruto",
+      "nature": "wind",
+      "clans": [
+        {
+          "name": "Uzumaki"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Hokage"
+        }
+      ],
+      "specialAbility": "ShadowClonning",
+      "countOfMis": 120,
+      "village": "Konoha"
+    },
+    {
+      "name": "Saske",
+      "nature": "Fire and lightning",
+      "clans": [
+        {
+          "name": "Uchiha"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Jonin"
+        }
+      ],
+      "specialAbility": "Raikiry",
+      "countOfMis": 120,
+      "village": "Konoha"
+    },
+    {
+      "name": "Itachi",
+      "nature": "Fire",
+      "clans": [
+        {
+          "name": "Uchiha"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Jonin"
+        }
+      ],
+      "specialAbility": "Amaterasu",
+      "countOfMis": 230,
+      "village": "Konoha"
+    },
+    {
+      "name": "Madara",
+      "nature": "Fire",
+      "clans": [
+        {
+          "name": "Uchiha"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Jonin"
+        }
+      ],
+      "specialAbility": "Susano",
+      "countOfMis": 75,
+      "village": "Konoha"
+    },
+    {
+      "name": "Neiji",
+      "nature": "none",
+      "clans": [
+        {
+          "name": "Hyuga"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Jonin"
+        }
+      ],
+      "specialAbility": "Celestial rotation",
+      "countOfMis": 100,
+      "village": "Konoha"
+    },
+    {
+      "name": "Hinata",
+      "nature": "none",
+      "clans": [
+        {
+          "name": "Hyuga"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Chunin"
+        }
+      ],
+      "specialAbility": "The blow of the twin lions",
+      "countOfMis": 110,
+      "village": "Konoha"
+    },
+    {
+      "name": "Gaara",
+      "nature": "Sand",
+      "clans": [
+        {
+          "name": "Kazekage"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Kazekage"
+        }
+      ],
+      "specialAbility": "The great sandy burial",
+      "countOfMis": 38,
+      "village": "Sunagakure"
+    },
+    {
+      "name": "Kankuro",
+      "nature": "none",
+      "clans": [
+        {
+          "name": "Kazekage"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Jonin"
+        }
+      ],
+      "specialAbility": "Skill puppeteer",
+      "countOfMis": 38,
+      "village": "Sunagakure"
+    },
+    {
+      "name": "Temari",
+      "nature": "Wind",
+      "clans": [
+        {
+          "name": "Kazekage"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Jonin"
+        }
+      ],
+      "specialAbility": "Wind Blade",
+      "countOfMis": 38,
+      "village": "Sunagakure"
+    }
+  ]
+}
